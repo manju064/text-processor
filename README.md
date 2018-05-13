@@ -15,6 +15,8 @@ https://stackoverflow.com/questions/44026190/visual-studio-2017-cannot-update-mi
 Demo:
 App url - https://customtextprocessor.azurewebsites.net
 Swagger (for Api end points) - https://customtextprocessor.azurewebsites.net/swagger/#/
+
+Please note app is down at the moment. (disabled)
 ##########################################################################################
 
 This is a single-page application(SPA), built with:
